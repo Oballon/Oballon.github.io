@@ -8,7 +8,7 @@ pin: false
 ### 处理函数
 
 #### 字符处理 
-```
+python<br>
 #字符规范化
 def standard(number):
     number_str=str(number)
@@ -21,7 +21,7 @@ def standard(number):
     
     return number_str
 
-```
+<br>
 
 #### 获取文件大小并换行写入
 
