@@ -1,8 +1,7 @@
 ---
-# layout: post  # Github pages 默认配置post，无需指定
 title: "程控电源的程序控制"
 categories: [技术,可编程仪器]
-pin: true
+pin: false
 ---
 
 
