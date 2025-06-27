@@ -25,8 +25,7 @@ def standard(number):
 
 #### 获取文件大小并换行写入
 
-```
-
+```python
 #获取编号文件大小并换行写入
 import os
 def collect(diff_number):
@@ -42,7 +41,7 @@ def collect(diff_number):
 
 #### 正则表达式匹配目标字符
 
-```
+```python
 import re
 #正则表达式检索文件中目标字符数量
 def count(file_number_str,compare,folder_name):
