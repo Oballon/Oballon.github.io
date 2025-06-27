@@ -1,5 +1,4 @@
 ---
-# layout: post  # Github pages 默认配置post，无需指定
 title: "文件编程处理"
 categories: [技术,文件处理]
 pin: false
