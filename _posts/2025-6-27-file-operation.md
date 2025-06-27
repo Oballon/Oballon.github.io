@@ -8,7 +8,7 @@ pin: false
 ### 处理函数
 
 #### 字符处理 
-```
+```python
 #字符规范化
 def standard(number):
     number_str=str(number)
