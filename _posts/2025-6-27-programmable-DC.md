@@ -7,7 +7,7 @@ pin: false
 
 ### Rigol DP811A程控电源程控测试
 
-```
+```python
 
 if __name__ == '__main__' :
 
@@ -26,7 +26,8 @@ if __name__ == '__main__' :
 
 ### Rigol DP811A 程控电源电压电流控制实例
 
-```
+```python
+
 #程控电源的控制
 
 import pyvisa
