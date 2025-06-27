@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "Github pages & Jekyll 初步部署笔记"
-categories: [技术,网站]
-pin: true
+title: "桌面自动化"
+categories: [技术,自动化]
+pin: false
 
 ---
 
