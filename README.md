@@ -1,3 +1,5 @@
+本网站基于Chirpy Starter构建，适当更改解决了_posts文章上传不编译的问题（具体改动闲时再作研究）
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
