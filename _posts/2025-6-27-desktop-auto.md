@@ -5,19 +5,12 @@ pin: false
 ---
 
 
-## 桌面自动化
-
 ### 编程方案（推荐）：
-
 python库pyautogui、pywinauto方案可应对大多数桌面自动化需求
 
-#### pyautogui：
+pyautogui：主要模拟鼠标键盘操作
 
-主要模拟鼠标键盘操作
-
-#### pywinauto：
-
-基于Windows UI自动化框架，直接操作窗口控件
+pywinauto：基于Windows UI自动化框架，直接操作窗口控件
 
 
 

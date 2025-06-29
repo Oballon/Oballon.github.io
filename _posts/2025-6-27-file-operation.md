@@ -6,6 +6,7 @@ pin: false
 
 
 ### 处理函数
+封装文件处理的典型函数，后续篇幅过长以文件形式附与文末
 
 #### 字符处理
 
@@ -22,7 +23,6 @@ def standard(number):
         number_str=number_str
     
     return number_str
-
 ```
 
 #### 获取文件大小并换行写入
@@ -39,7 +39,6 @@ def collect(diff_number):
         f.write(str(size)+'\n')
 
 #collect('001_002')
-
 ```
 
 #### 正则表达式匹配目标字符
@@ -58,5 +57,4 @@ def count(file_number_str,compare,folder_name):
     # print(file_number_str)
     # print(f"{file_number_str}.txt中匹配的内容: {matches}")
     print(f"{file_number_str}.txt中匹配的数量: {len(matches)}")
-
 ```
